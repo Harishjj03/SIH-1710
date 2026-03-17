@@ -67,15 +67,15 @@ Notify user instantly via app/SMS
 Stop transaction if risk is high
 
 ## Technology Stack
-🔹 Frontend
+#### Frontend
 
 React Native / Flutter
 
-🔹 Backend
+#### Backend
 
 Node.js / Django
 
-🔹 AI / ML
+#### AI / ML
 
 Python
 
@@ -83,11 +83,11 @@ Scikit-learn / TensorFlow
 
 Anomaly Detection Algorithms
 
-🔹 Database
+#### Database
 
 MongoDB / PostgreSQL
 
-🔹 Cloud
+#### Cloud
 
 AWS / Azure
 
