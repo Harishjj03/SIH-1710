@@ -9,41 +9,41 @@ Background:In recent years, India has witnessed an unprecedented surge in the ad
 The introduction of real-time payment systems has significantly improved convenience, enabling users to perform instant transactions anytime and anywhere. However, this rapid digital transformation has also expanded the attack surface for cybercriminals, making digital payment ecosystems increasingly vulnerable to fraud.
 
 ## Problem Creater's Organization
-Ministry of Railway
+Ministry of Finance, Government of India
 
 ## Idea
 Develop a smart fraud detection platform that analyzes user transaction behavior and identifies anomalies.
 
-## .Tracks spending habits
+. Tracks spending habits
 
-Flags unusual transactions (location, amount, time)
+. Flags unusual transactions (location, amount, time)
 
-Sends instant alerts or blocks transactions
+. Sends instant alerts or blocks transactions
 
 ## Proposed Solution / Architecture Diagram
 System Components
 
 ### User Interface
 
-Mobile App / Banking App Integration
+. Mobile App / Banking App Integration
 
 ### Backend Server
 
-Transaction processing
+. Transaction processing
 
 ### API handling
 
-AI Fraud Detection Engine
+. AI Fraud Detection Engine
 
-Machine Learning models
+. Machine Learning models
 
-Anomaly detection
+. Anomaly detection
 
 ### Database
 
-Transaction history
+. Transaction history
 
-User behavior data
+. User behavior data
 
 ## Use Cases
 ### 1. Suspicious Transaction Detection
