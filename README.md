@@ -1,26 +1,101 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:17-03-2026
+## Register Number:212224223002
+## Name:HARISHBALA J
 ## Problem Title
-SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
+SIH 1710: AI-Based Fraud Detection System for Digital Payments
 ## Problem Description
-Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
+Background:In recent years, India has witnessed an unprecedented surge in the adoption of digital payment systems, driven by the growth of smartphones, affordable internet access, and government initiatives like Digital India and cashless economy promotion. Platforms such as UPI, mobile banking, QR-based payments, and e-wallets have become an integral part of everyday financial transactions.
+The introduction of real-time payment systems has significantly improved convenience, enabling users to perform instant transactions anytime and anywhere. However, this rapid digital transformation has also expanded the attack surface for cybercriminals, making digital payment ecosystems increasingly vulnerable to fraud.
 
 ## Problem Creater's Organization
 Ministry of Railway
 
 ## Idea
+Develop a smart fraud detection platform that analyzes user transaction behavior and identifies anomalies.
 
+## .Tracks spending habits
+
+Flags unusual transactions (location, amount, time)
+
+Sends instant alerts or blocks transactions
 
 ## Proposed Solution / Architecture Diagram
+System Components
 
+# User Interface
+
+Mobile App / Banking App Integration
+
+# Backend Server
+
+Transaction processing
+
+# API handling
+
+AI Fraud Detection Engine
+
+Machine Learning models
+
+Anomaly detection
+
+# Database
+
+Transaction history
+
+User behavior data
 
 ## Use Cases
+1. Suspicious Transaction Detection
 
+Detect unusual high-value transactions
+
+2. Location-Based Alerts
+
+Transaction from different city/country
+
+3. Behavior Analysis
+
+Compare with past spending patterns
+
+4. Real-Time Alerts
+
+Notify user instantly via app/SMS
+
+5. Automatic Blocking
+
+Stop transaction if risk is high
 
 ## Technology Stack
+🔹 Frontend
 
+React Native / Flutter
+
+🔹 Backend
+
+Node.js / Django
+
+🔹 AI / ML
+
+Python
+
+Scikit-learn / TensorFlow
+
+Anomaly Detection Algorithms
+
+🔹 Database
+
+MongoDB / PostgreSQL
+
+🔹 Cloud
+
+AWS / Azure
 
 ## Dependencies
+Banking APIs / Payment gateway integration
 
+Secure authentication (OTP / Biometrics)
+
+Large transaction datasets for training
+
+Internet connectivity
