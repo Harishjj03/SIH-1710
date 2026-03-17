@@ -48,54 +48,54 @@ User behavior data
 ## Use Cases
 1. Suspicious Transaction Detection
 
-Detect unusual high-value transactions
+. Detect unusual high-value transactions
 
 2. Location-Based Alerts
 
-Transaction from different city/country
+. Transaction from different city/country
 
 3. Behavior Analysis
 
-Compare with past spending patterns
+. Compare with past spending patterns
 
 4. Real-Time Alerts
 
-Notify user instantly via app/SMS
+. Notify user instantly via app/SMS
 
 5. Automatic Blocking
 
-Stop transaction if risk is high
+. Stop transaction if risk is high
 
 ## Technology Stack
 ### Frontend
 
-React Native / Flutter
+. React Native / Flutter
 
 ### Backend
 
-Node.js / Django
+. Node.js / Django
 
 ### AI / ML
 
-Python
+. Python
 
-Scikit-learn / TensorFlow
+. Scikit-learn / TensorFlow
 
-Anomaly Detection Algorithms
+. Anomaly Detection Algorithms
 
 ### Database
 
-MongoDB / PostgreSQL
+. MongoDB / PostgreSQL
 
 ### Cloud
 
-AWS / Azure
+. AWS / Azure
 
 ## Dependencies
-# . Banking APIs / Payment gateway integration
+. Banking APIs / Payment gateway integration
 
-Secure authentication (OTP / Biometrics)
+. Secure authentication (OTP / Biometrics)
 
-Large transaction datasets for training
+. Large transaction datasets for training
 
-Internet connectivity
+. Internet connectivity
