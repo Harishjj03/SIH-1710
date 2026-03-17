@@ -46,23 +46,23 @@ Transaction history
 User behavior data
 
 ## Use Cases
-1. Suspicious Transaction Detection
+### 1. Suspicious Transaction Detection
 
 . Detect unusual high-value transactions
 
-2. Location-Based Alerts
+### 2. Location-Based Alerts
 
 . Transaction from different city/country
 
-3. Behavior Analysis
+### 3. Behavior Analysis
 
 . Compare with past spending patterns
 
-4. Real-Time Alerts
+### 4. Real-Time Alerts
 
 . Notify user instantly via app/SMS
 
-5. Automatic Blocking
+### 5. Automatic Blocking
 
 . Stop transaction if risk is high
 
