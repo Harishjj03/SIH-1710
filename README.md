@@ -23,15 +23,15 @@ Sends instant alerts or blocks transactions
 ## Proposed Solution / Architecture Diagram
 System Components
 
-#### User Interface
+### User Interface
 
 Mobile App / Banking App Integration
 
-#### Backend Server
+### Backend Server
 
 Transaction processing
 
-#### API handling
+### API handling
 
 AI Fraud Detection Engine
 
@@ -39,7 +39,7 @@ Machine Learning models
 
 Anomaly detection
 
-#### Database
+### Database
 
 Transaction history
 
