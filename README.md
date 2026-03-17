@@ -45,6 +45,10 @@ System Components
 
 . User behavior data
 
+
+<img width="1536" height="1024" alt="247791dc-399b-4665-a318-4ec2538b1066" src="https://github.com/user-attachments/assets/f33525a9-c4b3-42a5-bb33-8d3d029ab4a8" />
+
+
 ## Use Cases
 ### 1. Suspicious Transaction Detection
 
